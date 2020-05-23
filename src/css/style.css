@@ -1,0 +1,17 @@
+:root {
+  box-sizing: border-box; }
+
+*,
+::after,
+::before {
+  box-sizing: inherit; }
+
+a {
+  text-decoration: none; }
+
+ul {
+  margin: 0; }
+
+li {
+  list-style: none;
+  background: #000; }
